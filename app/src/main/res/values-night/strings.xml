@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+</resources>
